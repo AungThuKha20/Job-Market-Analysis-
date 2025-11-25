@@ -1,0 +1,26 @@
+job_id,company_id,job_title,job_description,salary_min,salary_max,job_location,job_type,experience_level,application_deadline,posting_date
+1,1,Data Analyst,Analyze business data and generate insights for decision making,600,1000,Yangon,Hybrid,Mid,2024-03-15,2024-01-15
+2,2,Junior Data Analyst,Support data collection and reporting activities,450,700,Mandalay,On-site,Entry,2024-03-20,2024-01-18
+3,3,Marketing Data Specialist,Analyze marketing campaign performance and ROI,500,800,Yangon,Remote,Entry,2024-03-25,2024-01-20
+4,4,Senior Data Scientist,Develop machine learning models and algorithms,1000,1500,Remote,Remote,Senior,2024-04-01,2024-01-25
+5,5,BI Analyst,Create business intelligence dashboards and reports,700,1100,Yangon,Hybrid,Mid,2024-03-30,2024-01-28
+6,6,Data Engineer,Build and maintain data pipelines and ETL processes,800,1200,Yangon,On-site,Mid,2024-04-05,2024-02-01
+7,7,Retail Data Analyst,Analyze sales data and inventory management,550,850,Mandalay,Hybrid,Entry,2024-04-10,2024-02-05
+8,8,FinTech Data Specialist,Work with financial transactions and risk data,900,1300,Yangon,On-site,Senior,2024-04-15,2024-02-08
+9,9,Agricultural Data Analyst,Analyze crop yields and weather patterns,400,650,Naypyidaw,Remote,Entry,2024-04-12,2024-02-10
+10,10,Junior Data Scientist,Assist in developing predictive models,600,900,Yangon,Hybrid,Entry,2024-04-18,2024-02-12
+11,11,Insurance Data Analyst,Analyze claims data and risk assessment,650,950,Yangon,On-site,Mid,2024-04-20,2024-02-15
+12,12,Sales Data Analyst,Optimize sales strategies and customer insights,500,750,Yangon,Hybrid,Entry,2024-04-22,2024-02-18
+13,13,Manufacturing Data Specialist,Analyze production efficiency and quality control,700,1000,Mandalay,On-site,Mid,2024-04-25,2024-02-20
+14,14,Startup Data Analyst,Wear multiple hats in fast-paced environment,400,600,Yangon,Remote,Entry,2024-04-28,2024-02-22
+15,15,Logistics Data Analyst,Optimize shipping routes and delivery times,600,850,Yangon,Hybrid,Mid,2024-05-01,2024-02-25
+16,16,AgriTech Data Scientist,Develop models for precision agriculture,800,1100,Naypyidaw,Remote,Senior,2024-05-05,2024-02-28
+17,17,Banking Data Analyst,Analyze customer transactions and behavior,750,1050,Yangon,On-site,Mid,2024-05-08,2024-03-01
+18,18,Analytics Consultant,Provide data insights to various clients,900,1400,Yangon,Hybrid,Senior,2024-05-12,2024-03-03
+19,19,Retail Insights Analyst,Optimize store performance and layouts,550,800,Mandalay,On-site,Entry,2024-05-15,2024-03-05
+20,20,Lead Data Scientist,Lead ML projects and mentor junior team,1200,1800,Yangon,On-site,Senior,2024-05-20,2024-03-08
+21,1,Junior Data Engineer,Assist in building data infrastructure,500,800,Yangon,Hybrid,Entry,2024-05-25,2024-03-10
+22,2,Financial Data Analyst,Analyze market trends and investments,700,1000,Mandalay,On-site,Mid,2024-05-30,2024-03-12
+23,3,Crop Data Specialist,Analyze soil and weather data,450,700,Naypyidaw,Remote,Entry,2024-06-01,2024-03-15
+24,4,ML Engineer,Deploy machine learning models to production,1100,1600,Remote,Remote,Senior,2024-06-05,2024-03-18
+25,5,Risk Data Analyst,Assess insurance risk using statistical models,800,1150,Yangon,Hybrid,Senior,2024-06-10,2024-03-20

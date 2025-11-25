@@ -1,0 +1,21 @@
+company_id,company_name,industry,company_size,headquarters_location,website,created_date
+1,TechInnovate Myanmar,Technology,Medium,Yangon,https://techinnovate-mm.com,2023-05-15 09:30:00+06:30
+2,GlobalBank Myanmar,Finance,Large,Mandalay,https://globalbank-mm.com,2022-11-20 14:15:00+06:30
+3,GreenFarm Co,Agriculture,Small,Naypyidaw,https://greenfarm-mm.com,2024-01-10 08:45:00+06:30
+4,Digital Solutions,Technology,Startup,Yangon,https://digitalsolutions-mm.com,2023-08-03 11:20:00+06:30
+5,MCT Insurance,Insurance,Medium,Yangon,https://mct-insurance.com,2022-12-05 16:40:00+06:30
+6,Yangon Tech Hub,Technology,Small,Yangon,https://yangontechhub.com,2023-09-18 10:10:00+06:30
+7,Mandalay Trading,Retail,Medium,Mandalay,https://mandalaytrading.com,2023-03-22 13:25:00+06:30
+8,Myanmar FinTech,Finance,Startup,Yangon,https://myanmarfintech.com,2024-02-14 15:50:00+06:30
+9,AgriPlus Myanmar,Agriculture,Medium,Naypyidaw,https://agriplus-mm.com,2023-06-30 07:35:00+06:30
+10,DataDriven Co,Technology,Small,Yangon,https://datadriven-mm.com,2023-11-08 12:05:00+06:30
+11,First Insurance,Insurance,Large,Yangon,https://firstinsurance-mm.com,2022-09-12 17:30:00+06:30
+12,Yangon Retail Group,Retail,Large,Yangon,https://yrg.com,2023-04-25 09:55:00+06:30
+13,Mandalay Manufacturing,Manufacturing,Medium,Mandalay,https://mandalaymfg.com,2023-07-17 14:40:00+06:30
+14,TechBridge Solutions,Technology,Startup,Yangon,https://techbridge-mm.com,2024-01-30 11:15:00+06:30
+15,Myanmar Logistics,Logistics,Medium,Yangon,https://myanmarlogistics.com,2023-02-28 08:20:00+06:30
+16,Digital Farmers,Agriculture,Startup,Naypyidaw,https://digitalfarmers.com,2023-10-11 16:05:00+06:30
+17,City Bank Myanmar,Finance,Large,Yangon,https://citybank-mm.com,2022-07-19 10:50:00+06:30
+18,Smart Analytics,Technology,Small,Yangon,https://smartanalytics-mm.com,2023-12-03 13:35:00+06:30
+19,Union Trading,Retail,Medium,Mandalay,https://uniontrading.com,2023-05-08 15:10:00+06:30
+20,Myanmar Tech Giants,Technology,Large,Yangon,https://mtg.com,2022-10-27 12:45:00+06:30

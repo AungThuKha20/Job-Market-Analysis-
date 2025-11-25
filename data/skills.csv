@@ -1,0 +1,26 @@
+skill_id,skill_name,skill_category
+1,SQL,Programming
+2,Python,Programming
+3,R,Programming
+4,Excel,Tools
+5,Power BI,Tools
+6,Tableau,Tools
+7,Statistics,Analytics
+8,Machine Learning,Analytics
+9,Data Visualization,Analytics
+10,Google Analytics,Tools
+11,Data Cleaning,Analytics
+12,AWS,Cloud
+13,Azure,Cloud
+14,Spark,Big Data
+15,SQL Server,Programming
+16,MySQL,Programming
+17,PostgreSQL,Programming
+18,Pandas,Programming
+19,NumPy,Programming
+20,Scikit-learn,Machine Learning
+21,TensorFlow,Machine Learning
+22,PyTorch,Machine Learning
+23,Docker,DevOps
+24,Git,DevOps
+25,Java,Programming
