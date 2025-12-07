@@ -1,26 +1,51 @@
 job_id,company_id,job_title,job_description,salary_min,salary_max,job_location,job_type,experience_level,application_deadline,posting_date
-1,1,Data Analyst,Analyze business data and generate insights for decision making,600,1000,Yangon,Hybrid,Mid,2024-03-15,2024-01-15
-2,2,Junior Data Analyst,Support data collection and reporting activities,450,700,Mandalay,On-site,Entry,2024-03-20,2024-01-18
-3,3,Marketing Data Specialist,Analyze marketing campaign performance and ROI,500,800,Yangon,Remote,Entry,2024-03-25,2024-01-20
-4,4,Senior Data Scientist,Develop machine learning models and algorithms,1000,1500,Remote,Remote,Senior,2024-04-01,2024-01-25
-5,5,BI Analyst,Create business intelligence dashboards and reports,700,1100,Yangon,Hybrid,Mid,2024-03-30,2024-01-28
-6,6,Data Engineer,Build and maintain data pipelines and ETL processes,800,1200,Yangon,On-site,Mid,2024-04-05,2024-02-01
-7,7,Retail Data Analyst,Analyze sales data and inventory management,550,850,Mandalay,Hybrid,Entry,2024-04-10,2024-02-05
-8,8,FinTech Data Specialist,Work with financial transactions and risk data,900,1300,Yangon,On-site,Senior,2024-04-15,2024-02-08
-9,9,Agricultural Data Analyst,Analyze crop yields and weather patterns,400,650,Naypyidaw,Remote,Entry,2024-04-12,2024-02-10
-10,10,Junior Data Scientist,Assist in developing predictive models,600,900,Yangon,Hybrid,Entry,2024-04-18,2024-02-12
-11,11,Insurance Data Analyst,Analyze claims data and risk assessment,650,950,Yangon,On-site,Mid,2024-04-20,2024-02-15
-12,12,Sales Data Analyst,Optimize sales strategies and customer insights,500,750,Yangon,Hybrid,Entry,2024-04-22,2024-02-18
-13,13,Manufacturing Data Specialist,Analyze production efficiency and quality control,700,1000,Mandalay,On-site,Mid,2024-04-25,2024-02-20
-14,14,Startup Data Analyst,Wear multiple hats in fast-paced environment,400,600,Yangon,Remote,Entry,2024-04-28,2024-02-22
-15,15,Logistics Data Analyst,Optimize shipping routes and delivery times,600,850,Yangon,Hybrid,Mid,2024-05-01,2024-02-25
-16,16,AgriTech Data Scientist,Develop models for precision agriculture,800,1100,Naypyidaw,Remote,Senior,2024-05-05,2024-02-28
-17,17,Banking Data Analyst,Analyze customer transactions and behavior,750,1050,Yangon,On-site,Mid,2024-05-08,2024-03-01
-18,18,Analytics Consultant,Provide data insights to various clients,900,1400,Yangon,Hybrid,Senior,2024-05-12,2024-03-03
-19,19,Retail Insights Analyst,Optimize store performance and layouts,550,800,Mandalay,On-site,Entry,2024-05-15,2024-03-05
-20,20,Lead Data Scientist,Lead ML projects and mentor junior team,1200,1800,Yangon,On-site,Senior,2024-05-20,2024-03-08
-21,1,Junior Data Engineer,Assist in building data infrastructure,500,800,Yangon,Hybrid,Entry,2024-05-25,2024-03-10
-22,2,Financial Data Analyst,Analyze market trends and investments,700,1000,Mandalay,On-site,Mid,2024-05-30,2024-03-12
-23,3,Crop Data Specialist,Analyze soil and weather data,450,700,Naypyidaw,Remote,Entry,2024-06-01,2024-03-15
-24,4,ML Engineer,Deploy machine learning models to production,1100,1600,Remote,Remote,Senior,2024-06-05,2024-03-18
-25,5,Risk Data Analyst,Assess insurance risk using statistical models,800,1150,Yangon,Hybrid,Senior,2024-06-10,2024-03-20
+1,1,Senior Data Scientist,"Lead ML projects and build predictive models",1200,2500,Yangon Region,Hybrid,Senior,2024-12-31,2024-11-01
+2,2,Machine Learning Engineer,"Design and deploy ML systems in production",1100,2200,Yangon Region,Remote,Senior,2024-12-25,2024-11-02
+3,3,Senior Data Engineer,"Build scalable data pipelines and infrastructure",1000,2000,Mandalay Region,Hybrid,Senior,2024-12-28,2024-11-01
+4,4,Data Scientist,"Develop and implement machine learning models",800,1600,Ayeyarwady Region,On-site,Mid,2024-12-20,2024-10-30
+5,5,Data Engineer,"Design and maintain data systems",700,1400,Naypyidaw Union Territory,Hybrid,Mid,2024-12-22,2024-11-03
+6,6,Software Engineer,"Develop software applications and systems",600,1200,Shan State,Remote,Mid,2024-12-18,2024-11-02
+7,7,Cloud Engineer,"Design and manage cloud infrastructure",900,1800,Sagaing Region,Remote,Senior,2024-12-31,2024-11-01
+8,8,Senior Data Analyst,"Analyze complex datasets and provide insights",850,1700,Rakhine State,On-site,Senior,2024-12-24,2024-10-29
+9,9,Business Analyst,"Analyze business processes and requirements",500,1000,Kachin State,Hybrid,Mid,2024-12-15,2024-10-31
+10,10,Data Analyst,"Analyze data to support decision making",400,800,Mon State,On-site,Entry,2024-12-10,2024-11-03
+11,11,Senior Data Scientist,"Lead AI research and development",1100,2300,Kayin State,Remote,Senior,2024-12-30,2024-11-04
+12,12,Machine Learning Engineer,"Optimize ML algorithms for performance",1000,2100,Magway Region,Hybrid,Senior,2024-12-29,2024-11-05
+13,13,Senior Data Engineer,"Architect data solutions for large datasets",950,1900,Bago Region,On-site,Senior,2024-12-27,2024-11-01
+14,14,Data Scientist,"Build statistical models for business insights",750,1500,Tanintharyi Region,Hybrid,Mid,2024-12-19,2024-11-02
+15,15,Data Engineer,"Implement ETL processes and data warehousing",650,1300,Chin State,On-site,Mid,2024-12-17,2024-11-03
+16,16,Software Engineer,"Develop and maintain software products",550,1100,Kayah State,Remote,Mid,2024-12-16,2024-11-04
+17,17,Cloud Engineer,"Manage multi-cloud environments and security",800,1700,Yangon Region,Remote,Senior,2024-12-31,2024-11-05
+18,18,Senior Data Analyst,"Lead analytics projects and dashboard development",700,1500,Mandalay Region,On-site,Senior,2024-12-26,2024-11-01
+19,19,Business Analyst,"Bridge gap between IT and business teams",450,950,Ayeyarwady Region,Hybrid,Mid,2024-12-14,2024-11-02
+20,20,Data Analyst,"Create reports and visualizations from data",350,750,Sagaing Region,On-site,Entry,2024-12-12,2024-11-03
+21,21,Senior Data Scientist,"Develop NLP and computer vision models",1150,2400,Bago Region,Remote,Senior,2024-12-31,2024-11-04
+22,22,Machine Learning Engineer,"Build recommendation systems",1050,2200,Yangon Region,Hybrid,Senior,2024-12-28,2024-11-05
+23,23,Senior Data Engineer,"Design real-time data processing systems",980,2000,Kachin State,On-site,Senior,2024-12-29,2024-11-01
+24,24,Data Scientist,"Analyze agricultural data for insights",720,1450,Shan State,Hybrid,Mid,2024-12-21,2024-11-02
+25,25,Data Engineer,"Build data lakes and data marts",680,1350,Rakhine State,On-site,Mid,2024-12-23,2024-11-03
+26,26,Software Engineer,"Full-stack web development",620,1250,Mon State,Remote,Mid,2024-12-20,2024-11-04
+27,27,Cloud Engineer,"Implement DevOps and CI/CD pipelines",850,1750,Kayin State,Remote,Senior,2024-12-30,2024-11-05
+28,28,Senior Data Analyst,"Advanced analytics and predictive modeling",780,1600,Magway Region,On-site,Senior,2024-12-25,2024-11-01
+29,29,Business Analyst,"Requirement gathering and process mapping",480,980,Chin State,Hybrid,Mid,2024-12-18,2024-11-02
+30,30,Data Analyst,"Data extraction, transformation and loading",380,780,Yangon Region,On-site,Entry,2024-12-16,2024-11-03
+31,31,Senior Data Scientist,"Time series forecasting and analysis",1250,2600,Mandalay Region,Hybrid,Senior,2024-12-31,2024-11-04
+32,32,Machine Learning Engineer,"ML model deployment and monitoring",1150,2350,Ayeyarwady Region,Remote,Senior,2024-12-29,2024-11-05
+33,33,Senior Data Engineer,"Big data processing with Spark and Hadoop",1050,2150,Sagaing Region,On-site,Senior,2024-12-28,2024-11-01
+34,34,Data Scientist,"Customer segmentation and clustering",770,1550,Bago Region,Hybrid,Mid,2024-12-22,2024-11-02
+35,35,Data Engineer,"Database optimization and tuning",690,1400,Kayah State,On-site,Mid,2024-12-24,2024-11-03
+36,36,Software Engineer,"Mobile app development",580,1200,Tanintharyi Region,Remote,Mid,2024-12-19,2024-11-04
+37,37,Cloud Engineer,"Cloud cost optimization and management",920,1850,Yangon Region,Remote,Senior,2024-12-31,2024-11-05
+38,38,Senior Data Analyst,"A/B testing and experimentation analysis",820,1650,Rakhine State,On-site,Senior,2024-12-27,2024-11-01
+39,39,Business Analyst,"Stakeholder management and documentation",520,1050,Shan State,Hybrid,Mid,2024-12-20,2024-11-02
+40,40,Data Analyst,"KPI tracking and performance reporting",420,850,Mon State,On-site,Entry,2024-12-18,2024-11-03
+41,41,Senior Data Scientist,"Fraud detection and anomaly detection",1180,2450,Kayin State,Remote,Senior,2024-12-31,2024-11-04
+42,42,Machine Learning Engineer,"Model training and hyperparameter tuning",1080,2250,Magway Region,Hybrid,Senior,2024-12-30,2024-11-05
+43,43,Senior Data Engineer,"Data quality and governance implementation",1020,2080,Chin State,On-site,Senior,2024-12-29,2024-11-01
+44,44,Data Scientist,"Sentiment analysis and text mining",790,1580,Yangon Region,Hybrid,Mid,2024-12-23,2024-11-02
+45,45,Data Engineer,"API development and integration",710,1420,Mandalay Region,On-site,Mid,2024-12-25,2024-11-03
+46,46,Software Engineer,"Backend API development",590,1180,Ayeyarwady Region,Remote,Mid,2024-12-21,2024-11-04
+47,47,Cloud Engineer,"Cloud migration and modernization",880,1800,Sagaing Region,Remote,Senior,2024-12-30,2024-11-05
+48,48,Senior Data Analyst,"Business intelligence and reporting",760,1550,Bago Region,On-site,Senior,2024-12-26,2024-11-01
+49,49,Business Analyst,"Agile methodology and sprint planning",510,1020,Kachin State,Hybrid,Mid,2024-12-19,2024-11-02
+50,50,Data Analyst,"Data mining and pattern recognition",440,880,Naypyidaw Union Territory,On-site,Entry,2024-12-17,2024-11-03

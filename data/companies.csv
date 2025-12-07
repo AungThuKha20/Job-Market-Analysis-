@@ -1,21 +1,51 @@
 company_id,company_name,industry,company_size,headquarters_location,website,created_date
-1,TechInnovate Myanmar,Technology,Medium,Yangon,https://techinnovate-mm.com,2023-05-15 09:30:00+06:30
-2,GlobalBank Myanmar,Finance,Large,Mandalay,https://globalbank-mm.com,2022-11-20 14:15:00+06:30
-3,GreenFarm Co,Agriculture,Small,Naypyidaw,https://greenfarm-mm.com,2024-01-10 08:45:00+06:30
-4,Digital Solutions,Technology,Startup,Yangon,https://digitalsolutions-mm.com,2023-08-03 11:20:00+06:30
-5,MCT Insurance,Insurance,Medium,Yangon,https://mct-insurance.com,2022-12-05 16:40:00+06:30
-6,Yangon Tech Hub,Technology,Small,Yangon,https://yangontechhub.com,2023-09-18 10:10:00+06:30
-7,Mandalay Trading,Retail,Medium,Mandalay,https://mandalaytrading.com,2023-03-22 13:25:00+06:30
-8,Myanmar FinTech,Finance,Startup,Yangon,https://myanmarfintech.com,2024-02-14 15:50:00+06:30
-9,AgriPlus Myanmar,Agriculture,Medium,Naypyidaw,https://agriplus-mm.com,2023-06-30 07:35:00+06:30
-10,DataDriven Co,Technology,Small,Yangon,https://datadriven-mm.com,2023-11-08 12:05:00+06:30
-11,First Insurance,Insurance,Large,Yangon,https://firstinsurance-mm.com,2022-09-12 17:30:00+06:30
-12,Yangon Retail Group,Retail,Large,Yangon,https://yrg.com,2023-04-25 09:55:00+06:30
-13,Mandalay Manufacturing,Manufacturing,Medium,Mandalay,https://mandalaymfg.com,2023-07-17 14:40:00+06:30
-14,TechBridge Solutions,Technology,Startup,Yangon,https://techbridge-mm.com,2024-01-30 11:15:00+06:30
-15,Myanmar Logistics,Logistics,Medium,Yangon,https://myanmarlogistics.com,2023-02-28 08:20:00+06:30
-16,Digital Farmers,Agriculture,Startup,Naypyidaw,https://digitalfarmers.com,2023-10-11 16:05:00+06:30
-17,City Bank Myanmar,Finance,Large,Yangon,https://citybank-mm.com,2022-07-19 10:50:00+06:30
-18,Smart Analytics,Technology,Small,Yangon,https://smartanalytics-mm.com,2023-12-03 13:35:00+06:30
-19,Union Trading,Retail,Medium,Mandalay,https://uniontrading.com,2023-05-08 15:10:00+06:30
-20,Myanmar Tech Giants,Technology,Large,Yangon,https://mtg.com,2022-10-27 12:45:00+06:30
+1,Myanmar Data Solutions,Information Technology,Medium,Yangon Region,https://myanmardata.mm,2023-01-15
+2,Yangon Tech Hub,Information Technology,Large,Yangon Region,https://ygn-tech.mm,2023-02-10
+3,Mandalay Analytics,Information Technology,Medium,Mandalay Region,https://mdy-analytics.mm,2023-03-05
+4,Ayeyarwady Data Systems,Information Technology,Small,Ayeyarwady Region,https://ayeyarwady-data.mm,2023-04-20
+5,Naypyidaw AI Lab,Information Technology,Small,Naypyidaw Union Territory,https://npt-ai.mm,2023-05-12
+6,Shan State Tech,Information Technology,Small,Shan State,https://shan-tech.mm,2023-06-08
+7,Sagaing Software Solutions,Information Technology,Small,Sagaing Region,https://sagaing-soft.mm,2023-07-14
+8,Rakhine Data Center,Information Technology,Small,Rakhine State,https://rakhine-data.mm,2023-08-22
+9,Kachin Cloud Systems,Information Technology,Medium,Kachin State,https://kachin-cloud.mm,2023-09-18
+10,Mon State Analytics,Information Technology,Small,Mon State,https://mon-analytics.mm,2023-10-30
+11,Kayin Tech Solutions,Information Technology,Small,Kayin State,https://kayin-tech.mm,2023-11-05
+12,Magway Data Services,Information Technology,Small,Magway Region,https://magway-data.mm,2023-12-01
+13,Bago Tech Innovations,Information Technology,Small,Bago Region,https://bago-tech.mm,2024-01-10
+14,Tanintharyi Digital,Information Technology,Small,Tanintharyi Region,https://tanintharyi-digital.mm,2024-01-25
+15,Chin State Tech,Information Technology,Small,Chin State,https://chin-tech.mm,2024-02-03
+16,Kayah Data Analytics,Information Technology,Small,Kayah State,https://kayah-data.mm,2024-02-18
+17,Yangon FinTech,Finance,Medium,Yangon Region,https://ygn-fintech.mm,2024-03-07
+18,Mandalay HealthTech,Healthcare,Medium,Mandalay Region,https://mdy-healthtech.mm,2024-03-22
+19,Ayeyarwady AgriTech,Agriculture,Medium,Ayeyarwady Region,https://ayeyarwady-agritech.mm,2024-04-05
+20,Sagaing EdTech,Education,Small,Sagaing Region,https://sagaing-edtech.mm,2024-04-20
+21,Bago RetailTech,Retail,Small,Bago Region,https://bago-retailtech.mm,2024-05-03
+22,Myanmar E-Commerce,E-commerce,Large,Yangon Region,https://mm-ecommerce.mm,2024-05-17
+23,Kachin LogiTech,Logistics,Medium,Kachin State,https://kachin-logitech.mm,2024-06-02
+24,Shan AgriTech,Agriculture,Medium,Shan State,https://shan-agritech.mm,2024-06-19
+25,Rakhine MarTech,Marketing,Small,Rakhine State,https://rakhine-martech.mm,2024-07-04
+26,Mon InsurTech,Insurance,Small,Mon State,https://mon-insurtech.mm,2024-07-21
+27,Kayin TravelTech,Tourism,Small,Kayin State,https://kayin-traveltech.mm,2024-08-08
+28,Magway EnergyTech,Energy,Small,Magway Region,https://magway-energytech.mm,2024-08-25
+29,Chin EduTech,Education,Small,Chin State,https://chin-edutech.mm,2024-09-11
+30,Yangon PropTech,Real Estate,Small,Yangon Region,https://ygn-proptech.mm,2024-09-28
+31,Mandalay AutoTech,Automotive,Small,Mandalay Region,https://mdy-autotech.mm,2024-10-15
+32,Ayeyarwady GovTech,Government,Small,Ayeyarwady Region,https://ayeyarwady-govtech.mm,2024-10-30
+33,Sagaing HealthTech,Healthcare,Small,Sagaing Region,https://sagaing-healthtech.mm,2024-11-12
+34,Bago LegalTech,Legal,Small,Bago Region,https://bago-legaltech.mm,2024-11-27
+35,Kayah MediaTech,Media,Small,Kayah State,https://kayah-mediatech.mm,2024-12-10
+36,Tanintharyi TravelTech,Tourism,Small,Tanintharyi Region,https://tanintharyi-traveltech.mm,2024-12-24
+37,Myanmar BankingTech,Finance,Large,Yangon Region,https://mm-bankingtech.mm,2025-01-07
+38,Rakhine FoodTech,Food Production,Small,Rakhine State,https://rakhine-foodtech.mm,2025-01-21
+39,Shan ConstructionTech,Construction,Small,Shan State,https://shan-constructiontech.mm,2025-02-04
+40,Mon HRTech,Human Resources,Small,Mon State,https://mon-hrtech.mm,2025-02-18
+41,Kayin SportsTech,Sports,Small,Kayin State,https://kayin-sportstech.mm,2025-03-04
+42,Magway MiningTech,Mining,Small,Magway Region,https://magway-miningtech.mm,2025-03-20
+43,Chin FashionTech,Fashion,Small,Chin State,https://chin-fashiontech.mm,2025-04-03
+44,Yangon AdTech,Advertising,Small,Yangon Region,https://ygn-adtech.mm,2025-04-17
+45,Mandalay GameTech,Gaming,Small,Mandalay Region,https://mdy-gametech.mm,2025-05-01
+46,Ayeyarwady BioTech,Biotechnology,Small,Ayeyarwady Region,https://ayeyarwady-biotech.mm,2025-05-15
+47,Sagaing CleanTech,Environmental,Small,Sagaing Region,https://sagaing-cleantech.mm,2025-05-29
+48,Bago MedTech,Medical Devices,Small,Bago Region,https://bago-medtech.mm,2025-06-12
+49,Kachin SpaceTech,Research,Small,Kachin State,https://kachin-spacetech.mm,2025-06-26
+50,Naypyidaw DeepTech,Research,Small,Naypyidaw Union Territory,https://npt-deeptech.mm,2025-07-10

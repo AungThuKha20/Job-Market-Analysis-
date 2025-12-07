@@ -44,7 +44,7 @@ FROM companies
 WHERE EXTRACT(MONTH FROM created_date AT TIME ZONE 'Asia/Yangon') = 1;
 
 -- Truncate in correct order
-TRUNCATE TABLE applications, job_skills, job_postings, companies 
+TRUNCATE TABLE applications, job_skills, skills, job_postings, companies 
 RESTART IDENTITY;
 
 
@@ -270,3 +270,10 @@ SELECT
     RANK() OVER (PARTITION BY skill_category ORDER BY job_count DESC) as category_rank
 FROM SkillDemand
 ORDER BY overall_rank;
+
+SELECT setval('companies_company_id_seq', (SELECT MAX(company_id) FROM companies) + 1);
+
+SELECT nextval('companies_company_id_seq');
+
+INSERT INTO companies (company_name, industry, company_size, headquarters_location, website)
+VALUES ('OpenAI', 'Artificial Intelligence', '1000+', 'San Francisco, CA', 'https://openai.com');
