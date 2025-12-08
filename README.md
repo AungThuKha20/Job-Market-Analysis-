@@ -1,9 +1,8 @@
-# Job Postings Database Analysis
+# End-to-End Live Job Market Analysis  
+PostgreSQL → Power Query → Real-Time Excel Dashboard
 
 ## Project Overview
 SQL analysis of job posting data with application tracking, company insights, and skills demand analytics. Features advanced SQL techniques including complex JOINs, CTEs, window functions, and multi-timezone analysis.
-
-# Full live connection from PostgreSQL → Excel with real-time dashboard.
 
 ## Database Schema
 - companies - Company details & industry info

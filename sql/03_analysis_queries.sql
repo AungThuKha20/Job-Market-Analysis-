@@ -277,3 +277,6 @@ SELECT nextval('companies_company_id_seq');
 
 INSERT INTO companies (company_name, industry, company_size, headquarters_location, website)
 VALUES ('OpenAI', 'Artificial Intelligence', '1000+', 'San Francisco, CA', 'https://openai.com');
+
+INSERT INTO companies (company_name, industry, company_size, headquarters_location, website)
+VALUES ('AI TECH X', 'Artificial Intelligence', '1000+', 'Mandalay region', 'https://openai.com');
