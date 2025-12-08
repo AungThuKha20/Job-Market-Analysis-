@@ -279,4 +279,13 @@ INSERT INTO companies (company_name, industry, company_size, headquarters_locati
 VALUES ('OpenAI', 'Artificial Intelligence', '1000+', 'San Francisco, CA', 'https://openai.com');
 
 INSERT INTO companies (company_name, industry, company_size, headquarters_location, website)
-VALUES ('AI TECH X', 'Artificial Intelligence', '1000+', 'Mandalay region', 'https://openai.com');
+VALUES ('AI TECH X', 'Artificial Intelligence', '1000+', 'Mandalay region', 'https://ai.com');
+
+UPDATE companies 
+SET headquarters_location = 'Yangon Region' 
+WHERE company_name = 'OpenAI';
+
+
+UPDATE companies 
+SET headquarters_location = 'Mandalay Region' 
+WHERE company_name = 'AI TECH X';
