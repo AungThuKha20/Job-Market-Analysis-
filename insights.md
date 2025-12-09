@@ -1,7 +1,7 @@
 ### Key Highlights 
 
 ----- Salary -----
-* Average maximum salary offered: USD 1,598 per month  
+* Average maximum salary offered: £ 1,598 per month  
 * Market pays well for senior and specialized roles
 
 ----- Experience Level -----
@@ -11,11 +11,11 @@
 * Very tough for fresh grads right now
 
 ----- Top 5 Highest-Paying Titles (Avg. Max Salary) -----
-* 1. Senior Data Scientist       → USD 2,450  
-* 2. Machine Learning Engineer   → USD 2,220  
-* 3. Senior Data Engineer        → USD 2,026  
-* 4. Cloud Engineer              → USD 1,780  
-* 5. Senior Data Analyst         → USD 1,600
+* 1. Senior Data Scientist       → £ 2,450  
+* 2. Machine Learning Engineer   → £ 2,220  
+* 3. Senior Data Engineer        → £ 2,026  
+* 4. Cloud Engineer              → £ 1,780  
+* 5. Senior Data Analyst         → £ 1,600
 
 ----- Most In-Demand Skills -----
 * Python               → required in 42% of jobs  
