@@ -1,5 +1,6 @@
 # End-to-End Live Job Market Analysis  
 PostgreSQL → Power Query → Real-Time Excel Dashboard
+PostgreSQL → Power BI → Interactive Dashboard
 
 ## Project Overview
 SQL analysis of job posting data with application tracking, company insights, and skills demand analytics. Features advanced SQL techniques including complex JOINs, CTEs, window functions, and multi-timezone analysis.
@@ -30,6 +31,7 @@ SQL analysis of job posting data with application tracking, company insights, an
 - Query optimization with indexing
 - Transaction safety
 - Power Query (Excel)
+- Power BI (DAX, visuals, slicers)
 - Live ODBC connection
 
 ## Files
@@ -39,6 +41,7 @@ SQL analysis of job posting data with application tracking, company insights, an
 - `data/` - CSV files for data import
 - `ER_diagram.png` - Database relationship diagram
 - `data_job_analysis_dashboard.xlsx` - **Live Excel dashboard (open → Refresh All)**
+- `data_job_market_dashboard.pbix – Power BI dashboard file`
 
 ## Quick Start
 ```bash
